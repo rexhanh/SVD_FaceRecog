@@ -1,6 +1,7 @@
 # Face Classification using Different Clustering Methods with SVD
 
 This is the final project for ECE1513 at University of Toronto, Winter 2024.
+Member: [Diego Bened](https://github.com/diegobened), [Mohamed Mohamed](https://github.com/gekavic), [Mohamed El Sayed](https://github.com/mbasyoni)
 
 ## Enviroment
 
